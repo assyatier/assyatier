@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello! I’m Muhammad Sholeh✨
+<p dir="auto">
+<animated-image data-catalyst=""><a href="#" rel="nofollow" data-target="animated-image.originalLink" hidden=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="#"></a>
+      </span></animated-image>
+</p>
 
-<!--
-**assyatier/assyatier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Software Engineer at Tokopedia
 
-Here are some ideas to get you started:
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-sholeh11/)
+<br>
+:desktop_computer: See my portofolio and my latest work [Here](http://assyatier-portofolio.herokuapp.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Assyatier&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=github_dark" /> 
